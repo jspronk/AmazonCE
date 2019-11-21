@@ -9,15 +9,16 @@
 - [Connect Admin & API Guides](https://docs.aws.amazon.com/connect/index.html#lang/en_us)
 - [Connect Agent Streams API](https://github.com/aws/amazon-connect-streams)
 - [Amazon Blogs: Contact Center](https://aws.amazon.com/blogs/aws/category/contact-center/amazon-connect/)
+- [Connect developer forums](https://forums.aws.amazon.com/forum.jspa?forumID=249&start=0)
 
 ### Demos
 - [Introduction to Amazon Connect](https://www.youtube.com/watch?v=yT4DfaOxngI)
 - [AI Powered Speech Analytics for Amazon Connect Solution](https://www.youtube.com/watch?v=PvnbGpRcV64)
--[Customer and Constituent Engagement with Amazon Connect](https://www.youtube.com/watch?v=4vV7A46IcHk)
-
+- [Customer and Constituent Engagement with Amazon Connect](https://www.youtube.com/watch?v=4vV7A46IcHk)
+- [Getting Started with Amazon Connect Chat](https://www.youtube.com/watch?v=dQ3Y6FWk7q8)
 
 ### Chat
-- [Getting Started with Amazon Connect Chat](https://www.youtube.com/watch?v=dQ3Y6FWk7q8)
+
 
 
 ### Reporting & Analytics
@@ -28,12 +29,36 @@
 ### Training Resources
 - [AWS AI Services Workshop](https://ai-services.labgui.de/)
 
-## Lex
+### CRM & Integrations
+- [Amazon Connect QuickStarts](https://aws.amazon.com/quickstart/connect/?quickstart-all.sort-by=item.additionalFields.updateDate&quickstart-all.sort-order=desc)
+- [SalesForce / Amazon Connect CTI Adapter](https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000EJH4yUAH)
 
 
+## Lex AI Bot
+### Product Documentation 
+-[Lex Documentation](https://docs.aws.amazon.com/lex/index.html) 
+-[Lex Developer Forums](https://forums.aws.amazon.com/forum.jspa?forumID=251)
 
 
+### Sample Bots
+- [Sample Amazon Lex chat bot web interface](https://github.com/aws-samples/aws-lex-web-ui)
+
+
+## Amazon Transcribe
+### Product Documentation
+
+-[Transcribe Developer Forums](https://forums.aws.amazon.com/forum.jspa?forumID=278&start=0)
+
+
+## Amazon Pinpoint
+
+### Samples
+-[Callback with Connect](https://github.com/aws-samples/amazon-pinpoint-connect-callback-requestor)
 
 
 ## Misc AWS & Dev links
-[VSCode Serverless Console extention](https://marketplace.visualstudio.com/items?itemName=devAdvice.serverlessconsole)
+-[VSCode Serverless Console extention](https://marketplace.visualstudio.com/items?itemName=devAdvice.serverlessconsole)
+- [Headsets for Connect](https://www.amazon.com/b?node=17714192011&ref=b2b_reg_biscon)
+-[Connect CCP Connectivity Tool](https://s3.amazonaws.com/connectivitytest/checkConnectivity.html)
+
+
