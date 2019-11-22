@@ -36,6 +36,8 @@
 ### CRM & Integrations
 - [Amazon Connect QuickStarts](https://aws.amazon.com/quickstart/connect/?quickstart-all.sort-by=item.additionalFields.updateDate&quickstart-all.sort-order=desc)
 - [SalesForce / Amazon Connect CTI Adapter](https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000EJH4yUAH)
+- [digiclairity monitoring tool](http://www.digiclarity.com/connect)
+- [callstats.io monitoring tool](https://www.callstats.io/)
 
 
 ## Lex AI Bot
