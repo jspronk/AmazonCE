@@ -42,8 +42,8 @@
 
 ## Lex AI Bot
 ### Product Documentation 
--[Lex Documentation](https://docs.aws.amazon.com/lex/index.html) 
--[Lex Developer Forums](https://forums.aws.amazon.com/forum.jspa?forumID=251)
+- [Lex Documentation](https://docs.aws.amazon.com/lex/index.html) 
+- [Lex Developer Forums](https://forums.aws.amazon.com/forum.jspa?forumID=251)
 
 
 ### Sample Bots
@@ -52,23 +52,32 @@
 
 ## Amazon Transcribe
 ### Product Documentation
+- [Transcribe Developer Forums](https://forums.aws.amazon.com/forum.jspa?forumID=278&start=0)
 
--[Transcribe Developer Forums](https://forums.aws.amazon.com/forum.jspa?forumID=278&start=0)
+### Samples
 
+
+## Amazon Translate
+### Product Documentation
+- [Translate Developer Guide](https://docs.aws.amazon.com/translate/latest/dg/what-is.html)
+
+### Samples
+- [Voice Translator App](https://d7nrzys4492rb.cloudfront.net/voice-translator.html)
+- [Real-time Audio Transcription/Translation](https://voice.boaz.cloud/)
 
 ## Amazon Pinpoint
 
 ### Samples
--[Callback with Connect](https://github.com/aws-samples/amazon-pinpoint-connect-callback-requestor)
+- [Callback with Connect](https://github.com/aws-samples/amazon-pinpoint-connect-callback-requestor)
 
 
 ## Amazon ElastiSearch
 - [ElastiSearch client for Javascript](https://blog.jayway.com/2018/09/11/aws-elasticsearch-javascript-client/)
 
 ## Misc AWS & Dev links
--[VSCode Serverless Console extention](https://marketplace.visualstudio.com/items?itemName=devAdvice.serverlessconsole)
+- [VSCode Serverless Console extention](https://marketplace.visualstudio.com/items?itemName=devAdvice.serverlessconsole)
 - [Headsets for Connect](https://www.amazon.com/b?node=17714192011&ref=b2b_reg_biscon)
--[Connect CCP Connectivity Tool](https://s3.amazonaws.com/connectivitytest/checkConnectivity.html)
+- [Connect CCP Connectivity Tool](https://s3.amazonaws.com/connectivitytest/checkConnectivity.html)
 - [Diagram Codes](https://www.diagram.codes/)
 
 
