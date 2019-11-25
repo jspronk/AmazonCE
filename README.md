@@ -18,7 +18,7 @@
 - [Getting Started with Amazon Connect Chat](https://www.youtube.com/watch?v=dQ3Y6FWk7q8)
 
 ### Chat
-
+- [Amazon Connect Chat UI Examples](https://github.com/amazon-connect/amazon-connect-chat-ui-examples)
 
 
 ### Reporting & Analytics
