@@ -11,7 +11,6 @@
 - [Customer and Constituent Engagement with Amazon Connect](https://www.youtube.com/watch?v=4vV7A46IcHk)
 - [Getting Started with Amazon Connect Chat](https://www.youtube.com/watch?v=dQ3Y6FWk7q8)
 ### Samples
-- 
 - [Amazon Connect Chat UI Examples](https://github.com/amazon-connect/amazon-connect-chat-ui-examples)
 ### Reporting & Analytics
 - [Demo which shows Kibana dashboard for CTR and KVS](https://s3.amazonaws.com/serverless-analytics/reinvent-2018-comprehend-transcribe-connect/index.html)
