@@ -10,7 +10,8 @@
 - [AI Powered Speech Analytics for Amazon Connect Solution](https://www.youtube.com/watch?v=PvnbGpRcV64)
 - [Customer and Constituent Engagement with Amazon Connect](https://www.youtube.com/watch?v=4vV7A46IcHk)
 - [Getting Started with Amazon Connect Chat](https://www.youtube.com/watch?v=dQ3Y6FWk7q8)
-### Chat
+### Samples
+- 
 - [Amazon Connect Chat UI Examples](https://github.com/amazon-connect/amazon-connect-chat-ui-examples)
 ### Reporting & Analytics
 - [Demo which shows Kibana dashboard for CTR and KVS](https://s3.amazonaws.com/serverless-analytics/reinvent-2018-comprehend-transcribe-connect/index.html)
@@ -33,6 +34,7 @@
 - [Lex Developer Forums](https://forums.aws.amazon.com/forum.jspa?forumID=251)
 ### Samples
 - [Sample Amazon Lex chat bot web interface](https://github.com/aws-samples/aws-lex-web-ui)
+- [Light weight web chat bot](https://github.com/zendizmo/resumebot)
 - [Managing conversation flow with a fallback intent on Amazon Lex](https://aws.amazon.com/blogs/machine-learning/managing-conversation-flow-with-a-fallback-intent-on-amazon-lex/)
 ## Amazon Transcribe
 ### Product Documentation
