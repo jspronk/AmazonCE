@@ -38,6 +38,7 @@
 ### CRM & Integrations
 - [Amazon Connect QuickStarts](https://aws.amazon.com/quickstart/connect/?quickstart-all.sort-by=item.additionalFields.updateDate&quickstart-all.sort-order=desc)
 - [SalesForce / Amazon Connect CTI Adapter](https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000EJH4yUAH)
+- [Salesforce Field Reference Guide](https://developer.salesforce.com/docs/atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference.htm)
 - [digiclairity monitoring tool](http://www.digiclarity.com/connect)
 - [callstats.io monitoring tool](https://www.callstats.io/)
 
@@ -48,13 +49,18 @@
 - [Lex Developer Forums](https://forums.aws.amazon.com/forum.jspa?forumID=251)
 
 
-### Sample Bots
+
+### Samples
 - [Sample Amazon Lex chat bot web interface](https://github.com/aws-samples/aws-lex-web-ui)
+- [Managing conversation flow with a fallback intent on Amazon Lex](https://aws.amazon.com/blogs/machine-learning/managing-conversation-flow-with-a-fallback-intent-on-amazon-lex/)
 
 
 ## Amazon Transcribe
 ### Product Documentation
 - [Transcribe Developer Forums](https://forums.aws.amazon.com/forum.jspa?forumID=278&start=0)
+
+### Training
+- [Custom vocabulary Introduction - Improving Amazon Transcribe Recognition p1](https://www.youtube.com/watch?v=23iRcHvqwds)
 
 ### Samples
 - [Amazon Transcribe Comprehend Podcast](https://github.com/aws-samples/amazon-transcribe-comprehend-podcast)
