@@ -54,6 +54,7 @@
 ### Samples
 - [Callback with Connect](https://github.com/aws-samples/amazon-pinpoint-connect-callback-requestor)
 ## Amazon ElastiSearch
+- [Elasticsearch tutorial: a quick start guide](https://aws.amazon.com/blogs/database/elasticsearch-tutorial-a-quick-start-guide/)
 - [ElastiSearch client for Javascript](https://blog.jayway.com/2018/09/11/aws-elasticsearch-javascript-client/)
 ## Misc AWS & Dev links
 - [VSCode Serverless Console extention](https://marketplace.visualstudio.com/items?itemName=devAdvice.serverlessconsole)
