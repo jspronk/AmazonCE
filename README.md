@@ -63,3 +63,5 @@
 - [Diagram Codes](https://www.diagram.codes/)
 - [ToDo Tree for VSC)(https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [ReInvent Videos](https://reinventvideos.com/)
+- [re:Invent 2019: Amazon Connect: Omnichannel cloud contact centers w Intuit & Salesforce (EUC209)](https://www.youtube.com/watch?v=dAxs7595WD4&feature=youtu.be)
+
