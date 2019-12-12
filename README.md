@@ -5,6 +5,7 @@
 - [Connect Agent Streams API](https://github.com/aws/amazon-connect-streams)
 - [Amazon Blogs: Contact Center](https://aws.amazon.com/blogs/aws/category/contact-center/amazon-connect/)
 - [Connect developer forums](https://forums.aws.amazon.com/forum.jspa?forumID=249&start=0)
+- [Reaching More Customers with Web and Mobile Chat on Amazon Connect](https://aws.amazon.com/blogs/contact-center/reaching-more-customers-with-web-and-mobile-chat-on-amazon-connect/?nc1=b_rp)
 ### Demos
 - [Introduction to Amazon Connect](https://www.youtube.com/watch?v=yT4DfaOxngI)
 - [AI Powered Speech Analytics for Amazon Connect Solution](https://www.youtube.com/watch?v=PvnbGpRcV64)
