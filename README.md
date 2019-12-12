@@ -57,6 +57,8 @@
 ## Amazon ElastiSearch
 - [Elasticsearch tutorial: a quick start guide](https://aws.amazon.com/blogs/database/elasticsearch-tutorial-a-quick-start-guide/)
 - [ElastiSearch client for Javascript](https://blog.jayway.com/2018/09/11/aws-elasticsearch-javascript-client/)
+## Amazon DynamoDB
+- [Awesome list of resources for DDB](https://github.com/alexdebrie/awesome-dynamodb)
 ## Misc AWS & Dev links
 - [VSCode Serverless Console extention](https://marketplace.visualstudio.com/items?itemName=devAdvice.serverlessconsole)
 - [Headsets for Connect](https://www.amazon.com/b?node=17714192011&ref=b2b_reg_biscon)
