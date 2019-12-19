@@ -11,6 +11,7 @@
 - [AI Powered Speech Analytics for Amazon Connect Solution](https://www.youtube.com/watch?v=PvnbGpRcV64)
 - [Customer and Constituent Engagement with Amazon Connect](https://www.youtube.com/watch?v=4vV7A46IcHk)
 - [Getting Started with Amazon Connect Chat](https://www.youtube.com/watch?v=dQ3Y6FWk7q8)
+- [Perficient Custom CCP with Chat Demo](https://www.youtube.com/watch?v=4FVBUtQLiWo&feature=youtu.be&t=100)
 ### Samples
 - [Amazon Connect Chat UI Examples](https://github.com/amazon-connect/amazon-connect-chat-ui-examples)
 ### Reporting & Analytics
