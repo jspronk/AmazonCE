@@ -19,6 +19,7 @@
 - [Blog post to access agent event streams and CWL from Kibana](https://aws.amazon.com/blogs/contact-center/use-amazon-connect-data-in-real-time-with-elasticsearch-and-kibana/)
 - [Analyze Amazon Connect records with Amazon Athena, AWS Glue, and Amazon QuickSight](https://aws.amazon.com/blogs/big-data/analyzing-amazon-connect-records-with-amazon-athena-aws-glue-and-amazon-quicksight/)
 - [Use Amazon Connect data in real time with Elasticsearch and Kibana](https://aws.amazon.com/blogs/contact-center/use-amazon-connect-data-in-real-time-with-elasticsearch-and-kibana/)
+- [Setting up Contact Trace Records for Analysis with Amazon Athena](https://voicefoundry.com/setting-up-contract-trace-records-for-analysis-with-amazon-athena/)
 ### Training Resources
 - [AWS AI Services Workshop](https://ai-services.labgui.de/)
 - [LightStream Connect Bootcamps *FREE*](https://www.ltstream.com/amazon-connect-bootcamp/)
