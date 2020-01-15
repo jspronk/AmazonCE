@@ -15,6 +15,7 @@
 - [How John Hancock Uses Salesforce & Amazon Connect for its Call Center](https://www.youtube.com/watch?v=CytQ5vcNlWM&feature=youtu.be)
 ### Samples
 - [Amazon Connect Chat UI Examples](https://github.com/amazon-connect/amazon-connect-chat-ui-examples)
+- [Amazon Connect Chat JS](https://github.com/amazon-connect/amazon-connect-chatjs)
 ### Reporting & Analytics
 - [Demo which shows Kibana dashboard for CTR and KVS](https://s3.amazonaws.com/serverless-analytics/reinvent-2018-comprehend-transcribe-connect/index.html)
 - [Blog post to access agent event streams and CWL from Kibana](https://aws.amazon.com/blogs/contact-center/use-amazon-connect-data-in-real-time-with-elasticsearch-and-kibana/)
