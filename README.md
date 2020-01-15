@@ -54,6 +54,8 @@
 ## Amazon Pinpoint
 ### Product Documentation
 - [User, Developer, and API guides](https://docs.aws.amazon.com/pinpoint/index.html)
+### Demos
+- [Introducing Amazon Pinpoint Journeys | Build the Experiences Your Customers Want](https://www.youtube.com/watch?v=qJF1pErxqKQ)
 ### Samples
 - [Callback with Connect](https://github.com/aws-samples/amazon-pinpoint-connect-callback-requestor)
 ## Amazon ElastiSearch
