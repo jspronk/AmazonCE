@@ -60,6 +60,7 @@
 - [Introducing Amazon Pinpoint Journeys | Build the Experiences Your Customers Want](https://www.youtube.com/watch?v=qJF1pErxqKQ)
 ### Samples
 - [Callback with Connect](https://github.com/aws-samples/amazon-pinpoint-connect-callback-requestor)
+- [Using Amazon Pinpoint to send text messages in Amazon Connect](https://aws.amazon.com/blogs/contact-center/using-amazon-pinpoint-to-send-text-messages-in-amazon-connect/)
 ## Amazon ElastiSearch
 - [Elasticsearch tutorial: a quick start guide](https://aws.amazon.com/blogs/database/elasticsearch-tutorial-a-quick-start-guide/)
 - [ElastiSearch client for Javascript](https://blog.jayway.com/2018/09/11/aws-elasticsearch-javascript-client/)
