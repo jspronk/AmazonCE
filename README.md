@@ -40,6 +40,7 @@
 - [Sample Amazon Lex chat bot web interface](https://github.com/aws-samples/aws-lex-web-ui)
 - [Light weight web chat bot](https://github.com/zendizmo/resumebot)
 - [Managing conversation flow with a fallback intent on Amazon Lex](https://aws.amazon.com/blogs/machine-learning/managing-conversation-flow-with-a-fallback-intent-on-amazon-lex/)
+- [Create a Question and Answer Bot with Amazon Lex and Amazon Alexa](https://aws.amazon.com/blogs/machine-learning/creating-a-question-and-answer-bot-with-amazon-lex-and-amazon-alexa/)
 ## Amazon Transcribe
 ### Product Documentation
 - [Transcribe Developer Forums](https://forums.aws.amazon.com/forum.jspa?forumID=278&start=0)
