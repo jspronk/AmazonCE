@@ -32,6 +32,8 @@
   - [Salesforce Fields Reference](https://developer.salesforce.com/docs/atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference.htm)
 - [digiclairity monitoring tool](http://www.digiclarity.com/connect)
 - [callstats.io monitoring tool](https://www.callstats.io/)
+### Troubleshooting
+- [A simple log viewer for Amazon Connect CCP log](https://github.com/mahayash315/ccp-log-viewer)
 ## Amazon Lex Bots
 ### Product Documentation 
 - [Lex Documentation](https://docs.aws.amazon.com/lex/index.html) 
