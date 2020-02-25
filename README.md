@@ -26,6 +26,7 @@
 - [AWS AI Services Workshop](https://ai-services.labgui.de/)
 - [LightStream Connect Bootcamps *FREE*](https://www.ltstream.com/amazon-connect-bootcamp/)
 - [Voice Foundary Connect Bootcamps *FREE*](https://voicefoundry.com/amazon-connect-bootcamp/)
+- [LinkedIn: Creating Great Customer Experiences](https://www.linkedin.com/learning/learning-amazon-connect-create-and-manage-a-contact-center/create-great-customer-experiences)
 ### CRM & Integrations
 - [Amazon Connect QuickStarts](https://aws.amazon.com/quickstart/connect/?quickstart-all.sort-by=item.additionalFields.updateDate&quickstart-all.sort-order=desc)
 - [SalesForce / Amazon Connect CTI Adapter](https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000EJH4yUAH)
