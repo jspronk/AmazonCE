@@ -24,16 +24,17 @@
 - [Setting up Contact Trace Records for Analysis with Amazon Athena](https://voicefoundry.com/setting-up-contract-trace-records-for-analysis-with-amazon-athena/)
 ### Training Resources
 - [AWS AI Services Workshop](https://ai-services.labgui.de/)
-- [LightStream Connect Bootcamps *FREE*](https://www.ltstream.com/amazon-connect-bootcamp/)
 - [Voice Foundary Connect Bootcamps *FREE*](https://voicefoundry.com/amazon-connect-bootcamp/)
 - [LinkedIn: Creating Great Customer Experiences](https://www.linkedin.com/learning/learning-amazon-connect-create-and-manage-a-contact-center/create-great-customer-experiences)
 - [Linux Academy: Amazon Connect Essentials](https://linuxacademy.com/course/amazon-connect-essentials/)
+- [Building a Modern Contact Center with Amazon Connect](https://github.com/aws-samples/amazon-connect-workshop)
 ### CRM & Integrations
 - [Amazon Connect QuickStarts](https://aws.amazon.com/quickstart/connect/?quickstart-all.sort-by=item.additionalFields.updateDate&quickstart-all.sort-order=desc)
 - [SalesForce / Amazon Connect CTI Adapter](https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000EJH4yUAH)
   - [Salesforce Fields Reference](https://developer.salesforce.com/docs/atlas.en-us.sfFieldRef.meta/sfFieldRef/salesforce_field_reference.htm)
 - [digiclairity monitoring tool](http://www.digiclarity.com/connect)
 - [callstats.io monitoring tool](https://www.callstats.io/)
+- [ServiceNow](https://blogs.servicenow.com/2020/aws-new-integration.html)
 ### Troubleshooting
 - [A simple log viewer for Amazon Connect CCP log](https://github.com/mahayash315/ccp-log-viewer)
 ## Amazon Lex Bots
