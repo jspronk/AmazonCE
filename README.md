@@ -36,6 +36,7 @@
 - [digiclairity monitoring tool](http://www.digiclarity.com/connect)
 - [callstats.io monitoring tool](https://www.callstats.io/)
 - [ServiceNow](https://blogs.servicenow.com/2020/aws-new-integration.html)
+- [Voicemail for Connect](https://docs.aws.amazon.com/solutions/latest/voicemail-for-amazon-connect/welcome.html)
 ### Troubleshooting
 - [A simple log viewer for Amazon Connect CCP log](https://github.com/mahayash315/ccp-log-viewer)
 ## Amazon Lex Bots
@@ -68,7 +69,7 @@
 ### Samples
 - [Callback with Connect](https://github.com/aws-samples/amazon-pinpoint-connect-callback-requestor)
 - [Using Amazon Pinpoint to send text messages in Amazon Connect](https://aws.amazon.com/blogs/contact-center/using-amazon-pinpoint-to-send-text-messages-in-amazon-connect/)
-## Amazon ElastiSearch
+## Amazon ElasticSearch
 - [Elasticsearch tutorial: a quick start guide](https://aws.amazon.com/blogs/database/elasticsearch-tutorial-a-quick-start-guide/)
 - [ElastiSearch client for Javascript](https://blog.jayway.com/2018/09/11/aws-elasticsearch-javascript-client/)
 ## Amazon DynamoDB
